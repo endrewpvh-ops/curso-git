@@ -2,3 +2,4 @@
 
 aprendendo a trabalhar com versionamento
 
+curso GIT 2026 (youtube/teoMeWhy)
